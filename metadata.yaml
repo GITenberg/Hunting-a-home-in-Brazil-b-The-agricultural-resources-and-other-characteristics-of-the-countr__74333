@@ -1,0 +1,38 @@
+_repo: Hunting-a-home-in-Brazil-b-The-agricultural-resources-and-other-characteristics-of-the-countr__74333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaston, James McFadden
+    aliases:
+    - Gaston, J. M. F. (James McFadden)
+    - Gaston, J. McFadden (James McFadden)
+    - Gaston, J. McF.
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '57451'
+    url: http://www.gutenberg.org/2009/agents/57451
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74333'
+  lccn: '22019770'
+language: en
+pgterms:marc904: https://books.google.com/books?id=mI0tAQAAMAAJ&printsec=frontcover
+pgterms:marc905: 20230714161158gaston
+pgterms:marc906: '1867'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aPhiladelphia :$bKing & Baird, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Description and travel'
+- !lcc 'F2501'
+- GITenberg
+title: 'Hunting a home in Brazil : $b The agricultural resources and other characteristics
+  of the country. Also, the manners and customs of the inhabitants'
+url: http://www.gutenberg.org/ebooks/74333
