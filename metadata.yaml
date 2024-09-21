@@ -1,5 +1,8 @@
 _repo: Hunting-a-home-in-Brazil-b-The-agricultural-resources-and-other-characteristics-of-the-countr__74333
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74333-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaston, James McFadden
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57451'
     url: http://www.gutenberg.org/2009/agents/57451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74333#Hunting-a-home-in-Brazil-b-The-agricultural-resources-and-other-characteristics-of-the-countr_
 gutenberg_issued: '2024-08-29'
 gutenberg_type: Text
 identifiers:
